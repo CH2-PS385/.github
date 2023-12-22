@@ -75,7 +75,7 @@ Our project is divided into 3 repositories.
 
 # Product
 
-[NutriMate Apps](link)
+[NutriMate Apps](https://drive.google.com/file/d/1Dept8r667MozrxK0UDVWYIV8yMTDggiq/view?usp=sharing)
    <br>
 
 # Technology Used
@@ -96,7 +96,7 @@ Our project is divided into 3 repositories.
 
 # API Documentation
 
-For API documentation, see the following link [NutriMate APIs Documentation](https://app.swaggerhub.com/apis/C312BSY4158/Bangkit-Capstone/1.0.0)
+For API documentation, see the following link [NutriMate APIs Documentation](https://app.swaggerhub.com/apis/C312BSY4158/Bangkit-Capstone)
 
 # Contact
 
