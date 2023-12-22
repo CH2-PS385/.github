@@ -96,7 +96,7 @@ Our project is divided into 3 repositories.
 
 # API Documentation
 
-For API documentation, see the following link [NutriMate APIs Documentation](https://app.swaggerhub.com/apis/C312BSY4158/Bangkit-Capstone)
+For API documentation, see the following link [NutriMate APIs Documentation](https://ch2-ps385.github.io/docs/)
 
 # Contact
 
