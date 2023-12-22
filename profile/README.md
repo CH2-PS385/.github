@@ -15,9 +15,9 @@ NutriMate : GitHub Repositories of Bangkit Academy 2023 batch 2 Capstone Project
 NutriMate is an application that can help users in determining their daily calorie intake and provide recommendations on foods that should be consumed to meet their daily calorie needs.
 
 <p align="center">
-	<img src="https://github.com/CH2-PS385/.github/blob/main/profile/logo/app-background.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/CH2-PS385/.github/blob/main/profile/logo/app-recommendation.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="https://github.com/CH2-PS385/.github/blob/main/profile/logo/app-food.png" width="25%">
+  <a href="#">
+    <img src="https://github.com/CH2-PS385/.github/blob/main/profile/logo/app-overview.png">
+  </a>
 </p>
 
 # Team Members
